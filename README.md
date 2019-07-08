@@ -7,7 +7,29 @@ This repository shows how its possible to use IBM Watson Studio and build a shin
 - The data also had to specify the time groups and <b>Vlookup</b> was used for this part as well 
 - Next, only 6 locations needed to be selected, hence <b>Data Refinery</b> was used to filter out the locations
 
-## Cognos Dashboards
+## Cognos Dashboards 
+### Insights Gained: 
+#### Driver Age: 
+- People between the age 20 - 29 cause lot of accidents and when the injury severity is increased the age group rises to 30 - 39 
+<pic> 
+  
+#### Accident Timing: 
+- Most of the accidents happen Early in the morning or Morning time. This could be because of the increase in traffic on roads. 
+<pic> 
+  
+#### Driver profile analysis: 
+<pic> 
+- Most of the accidents are caused by drivers in the age 20 - 29 and most of them are students or students in a military school. 
+- Blue Collar occupations such as painters, car drivers, etc. also between the age of 20 - 29 cause a lot accidents. Hence safer driving awarness has to be spread to this community. 
+
+ <gif>
+
+#### Location and Cause analysis: 
+<pic> 
+- Main kind of accidents is Hitting another vehicle 
+- Emirates Road has the most number of accidents 
+- So the main cause of accident at Emirates Road is Hitting another vehicle and hitting into an iron barrier, this could mean there is some design malfunction which needs to be manually accessed by the authorities.
+  <gif>
 
 ## Modelling - SPSS 
 
