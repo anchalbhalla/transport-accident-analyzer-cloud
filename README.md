@@ -15,21 +15,22 @@ This repository shows how its possible to use IBM Watson Studio and build a shin
   
 #### Accident Timing: 
 - Most of the accidents happen Early in the morning or Morning time. This could be because of the increase in traffic on roads. 
-<pic> 
+
+pic -here
   
 #### Driver profile analysis: 
-<pic> 
+pic 
 - Most of the accidents are caused by drivers in the age 20 - 29 and most of them are students or students in a military school. 
 - Blue Collar occupations such as painters, car drivers, etc. also between the age of 20 - 29 cause a lot accidents. Hence safer driving awarness has to be spread to this community. 
 
- <gif>
+ gif
 
 #### Location and Cause analysis: 
-<pic> 
+pic
 - Main kind of accidents is Hitting another vehicle 
 - Emirates Road has the most number of accidents 
 - So the main cause of accident at Emirates Road is Hitting another vehicle and hitting into an iron barrier, this could mean there is some design malfunction which needs to be manually accessed by the authorities.
-  <gif>
+ gif
 
 ## Modelling - SPSS 
 
