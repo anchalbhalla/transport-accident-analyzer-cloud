@@ -34,6 +34,31 @@ pic
 
 ## Modelling - SPSS 
 
+#### Driver Risk Model 
+Various classification models were tried and tested for this case. But most of them gave a very low accuracy. But the best one was XG Boost Trees which gave an accuracy above 75%. Below is the list of the models tested: 
+- <b>XG Boost Trees</b>
+- Random forest 
+- Neural networks
+- Chaid
+- Logistic Regression 
+  
+ This was the flow created for this model. This flow can be retrieved from flow2.str file in this repositary: 
+ pic -here
+
+
+#### Location Risk Model 
+Various classification models were tried and tested for this case. But most of them gave a very low accuracy. But the best one was CHAID which gave an accuracy above 75%. Below is the list of the models tested: 
+- <b>CHAID</b>
+- Random forest 
+- Neural networks
+- XG Boost Trees
+- Logistic Regression 
+- Auto Classifier models
+  
+ This was the flow created for this model. This flow can be retrieved from flow3.str file in this repositary: 
+ pic -here
+
+
 ## Shiny Application 
 
 ### Analysing Driver Profile Risk 
