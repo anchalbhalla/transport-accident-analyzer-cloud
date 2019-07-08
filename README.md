@@ -30,7 +30,8 @@ pic
 - Main kind of accidents is Hitting another vehicle 
 - Emirates Road has the most number of accidents 
 - So the main cause of accident at Emirates Road is Hitting another vehicle and hitting into an iron barrier, this could mean there is some design malfunction which needs to be manually accessed by the authorities.
- gif
+
+gif -here
 
 ## Modelling - SPSS 
 
@@ -67,7 +68,9 @@ Features to be analysed:
 - Gender
 - Occupation
 - Driving license issue date
-- Car manufactured year
+- Car manufactured year 
+
+gif - here
 
 ### Analysing Location Risk
 Features to be analysed: 
@@ -75,4 +78,6 @@ Features to be analysed:
 - Accident Location 
 - Weather
 - Type of accident
-- Cause of accident
+- Cause of accident 
+
+gif - here
